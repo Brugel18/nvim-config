@@ -1,0 +1,7 @@
+{
+  "clangd": "22.1.6",
+  "lua-language-server": "3.18.2",
+  "shfmt": "v3.13.1",
+  "stylua": "v2.5.2",
+  "tree-sitter-cli": "v0.26.10"
+}
